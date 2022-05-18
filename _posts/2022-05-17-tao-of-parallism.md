@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "tao_of_parallism"
-date: 2022-05-18 10:47:22 -0600
+title: tao_of_parallism
+author: lyj
 categaories: article
 ---
 # 摘要
