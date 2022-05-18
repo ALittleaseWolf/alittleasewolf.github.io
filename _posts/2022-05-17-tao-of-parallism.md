@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: tao_of_parallism
 author: lyj
 categaories: article
