@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: post
 title: tao_of_parallism
-author: lyj
-categaories: article
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">18 May 2022 - Wuhan</p>
+
 # 摘要
 
 常规的并行算法对于关键数据结构是非常规数据结构例如图，树，集合，依赖图不是一个合适的抽象。提炼出对并行化很重要的算法属性，从数据并行中概括出的无固定形状的数据并行无处不在，依赖于算法的tao结构，并行化可能在于编译时间，解析器执行器或者优化器并行，因此统一化称为不相关的并行化技术。
