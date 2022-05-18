@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "tao_of_parallism"
-date: 2022-05-18 10:47:22 -0000
+date: 2022-05-18 10:47:22 -0600
 categaories: article
 ---
 # 摘要
@@ -217,12 +217,4 @@ Prim的MST算法:大多数以自顶向下的方式构建树的算法使用细化
 有一组**初始活动节点，执行一项活动可能导致其他节点也活动**，因此节点以一种不可预测的、数据驱动的方式活动。
 
 
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
