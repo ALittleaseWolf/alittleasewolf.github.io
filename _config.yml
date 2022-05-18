@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: lyj' homepage
 description: for project or fun
+permalink: /blog/:year/:month/:day/:title
