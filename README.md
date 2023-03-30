@@ -1,2 +1,2 @@
 # huihui.github.io
-private's blog
+[private's blog](https://alittleasewolf.github.io/)
