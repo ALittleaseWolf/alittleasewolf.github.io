@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: ssh免密配置
